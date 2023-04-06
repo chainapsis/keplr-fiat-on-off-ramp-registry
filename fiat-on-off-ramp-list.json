@@ -4,7 +4,6 @@
       "serviceId": "kado",
       "serviceName": "Kado",
       "buyOrigin": "https://app.kado.money",
-      "buySupportDefaultChainId": "osmosis-1",
       "buySupportCoinDenomsByChainId": {
         "osmosis-1": ["USDC"],
         "juno-1": ["USDC"],
@@ -20,7 +19,8 @@
       "buySupportCoinDenomsByChainId": {
         "osmosis-1": ["OSMO"],
         "cosmoshub-4": ["ATOM"],
-        "secret-4": ["SCRT"]
+        "secret-4": ["SCRT"],
+        "injective-1": ["INJ"]
       }
     },
     {

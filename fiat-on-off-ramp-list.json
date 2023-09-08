@@ -9,7 +9,8 @@
         "juno-1": ["USDC"],
         "phoenix-1": ["USDC"],
         "cosmoshub-4": ["ATOM"],
-        "injective-1": ["USDT"]
+        "injective-1": ["USDT"],
+        "regen-1" ["REGEN", "USDC"]
       }
     },
     {

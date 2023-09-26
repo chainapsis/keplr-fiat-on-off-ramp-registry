@@ -5,12 +5,15 @@
       "serviceName": "Kado",
       "buyOrigin": "https://app.kado.money",
       "buySupportCoinDenomsByChainId": {
-        "osmosis-1": ["USDC"],
+        "osmosis-1": ["OSMO", "USDC"],
         "juno-1": ["USDC"],
         "phoenix-1": ["USDC"],
         "cosmoshub-4": ["ATOM"],
-        "injective-1": ["USDT"],
-        "regen-1": ["REGEN", "USDC"]
+        "injective-1": ["INJ", "USDT"],
+        "regen-1": ["REGEN", "USDC"],
+        "stargaze-1": ["STARS"],
+        "secret-4": ["SCRT"],
+        "agoric-3": ["BLD", "IST"]
       }
     },
     {

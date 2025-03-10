@@ -28,7 +28,7 @@
       "buyOrigin": "https://buy.moonpay.com",
       "buySupportCoinDenomsByChainId": {
         "cosmoshub-4": ["ATOM"],
-        "kava_2222-10": ["KAVA"]
+        "dydx-mainnet-1": ["DYDX"]
       }
     },
     {

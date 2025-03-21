@@ -28,7 +28,8 @@
       "buyOrigin": "https://buy.moonpay.com",
       "buySupportCoinDenomsByChainId": {
         "cosmoshub-4": ["ATOM"],
-        "dydx-mainnet-1": ["DYDX"]
+        "dydx-mainnet-1": ["DYDX"],
+        "injective-1": ["INJ"]
       }
     },
     {

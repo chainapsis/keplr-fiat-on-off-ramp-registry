@@ -40,7 +40,8 @@
         "osmosis-1": ["OSMO"],
         "cosmoshub-4": ["ATOM"],
         "secret-4": ["SCRT"],
-        "injective-1": ["INJ"]
+        "injective-1": ["INJ"],
+        "eip155:1514": ["IP"]
       }
     }
   ]

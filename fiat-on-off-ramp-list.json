@@ -1,25 +1,35 @@
 {
   "list": [
     {
-      "serviceId": "kado",
-      "serviceName": "Kado",
-      "buyOrigin": "https://app.kado.money",
+      "serviceId": "swapped",
+      "serviceName": "Swapped.com",
+      "buyOrigin": "https://widget.swapped.com",
       "buySupportCoinDenomsByChainId": {
-        "osmosis-1": ["OSMO", "USDC", "ATOM", "stATOM"],
-        "juno-1": ["USDC"],
-        "phoenix-1": ["USDC"],
+        "osmosis-1": ["OSMO"],
         "cosmoshub-4": ["ATOM"],
-        "injective-1": ["INJ"],
-        "regen-1": ["REGEN", "USDC"],
-        "stargaze-1": ["STARS"],
-        "secret-4": ["SCRT"],
-        "agoric-3": ["BLD", "IST"],
-        "noble-1": ["USDC"],
-        "neutron-1": ["NTRN", "USDC", "ATOM", "stATOM"],
-        "dydx-mainnet-1": ["USDC"],
-        "chihuahua-1": ["HUAHUA"],
-        "celestia": ["TIA"],
-        "omniflixhub-1": ["FLIX"]
+        "noble-1": ["USDC_NOBLE"],
+        "bip122:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f:taproot": [
+          "BTC"
+        ],
+        "bip122:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f:native-segwit": [
+          "BTC"
+        ],
+        "eip155:1": [
+          "APE",
+          "DAI_ETHEREUM",
+          "ETH",
+          "LINK_ETHEREUM",
+          "SAND",
+          "SHIB",
+          "UNI",
+          "USDC_ETHEREUM",
+          "USDT_ETHEREUM"
+        ],
+        "eip155:42161": ["ARB", "USDC_ARBITRUM"],
+        "eip155:43114": ["AVAX", "USDC_AVAX", "USDT_AVAX"],
+        "eip155:8453": ["USDC_BASE"],
+        "eip155:10": ["OP"],
+        "eip155:137": ["POLYGON", "USDT_POLYGON"]
       }
     },
     {

@@ -40,12 +40,12 @@
           "APE",
           "DAI",
           "ETH",
-          "LINK_ETHEREUM",
+          "LINK",
           "SAND",
           "SHIB",
           "UNI",
-          "USDC_ETHEREUM",
-          "USDT_ETHEREUM"
+          "USDC",
+          "USDT"
         ],
         "eip155:42161": ["ARBITRUM", "USDC_ARBITRUM"],
         "eip155:43114": ["AVAX", "USDC_AVAX", "USDT_AVAX"],
